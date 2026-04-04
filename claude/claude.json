@@ -1,0 +1,16 @@
+{
+  "agents": [
+    {
+      "name": "pitstop-optimizer-agent",
+      "description": "Optimizes pitstop timing using telemetry data",
+      "model": "claude-3",
+      "tools": ["telemetry-analyzer", "strategy-engine"]
+    }
+  ],
+  "commands": [
+    {
+      "name": "optimize-pitstop",
+      "description": "Runs pitstop optimization algorithm"
+    }
+  ]
+}
