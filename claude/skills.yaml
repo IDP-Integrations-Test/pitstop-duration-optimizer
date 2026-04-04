@@ -1,0 +1,5 @@
+skills:
+  - name: pitstop-strategy
+    description: Calculates optimal pitstop window
+  - name: tire-degradation-analysis
+    description: Predicts tire wear patterns
