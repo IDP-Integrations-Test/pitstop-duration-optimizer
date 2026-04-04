@@ -1,0 +1,8 @@
+agents:
+  - name: pitstop-optimizer-agent
+    description: Optimizes pitstop timing
+    model: claude-3
+    inputs:
+      - lap_time
+      - tire_wear
+      - fuel_level
