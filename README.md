@@ -16,7 +16,7 @@ _Read the [full blog post announcing RealWorld on Medium.](https://medium.com/@e
 
 Join us on [GitHub Discussions!](https://github.com/realworld-apps/realworld/discussions) 🎉
 
-# Implementations
+# Implementation
 
 Over 100 implementations have been created using various languages, libraries, and frameworks.
 
