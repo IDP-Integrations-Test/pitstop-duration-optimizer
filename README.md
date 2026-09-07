@@ -22,7 +22,7 @@ Over 100 implementations have been created using various languages, libraries, a
 
 Explore them on [**CodebaseShow**](https://codebase.show/projects/realworld).
 
-## Spec-compliant backends
+## Spec-compliant backend
 
 These backends pass the full [API spec test suite](specs/api/):
 
